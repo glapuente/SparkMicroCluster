@@ -1,0 +1,8 @@
+/.idea
+/datasets/*
+/tweets
+/script_files/*.py
+**/*BAK
+**/*.jar
+/confs/libsnappy.so*
+/confs/hive-site.xml_20211130
